@@ -110,4 +110,6 @@ npx expo start
 
 ## 👨‍💻 Autor
 
-Desenvolvido como atividade prática da disciplina de Desenvolvimento Mobile.
+Projeto criado e desenvolvido por Ygor Sampaio Esteves como atividade prática da disciplina de Desenvolvimento Mobile.
+
+O aplicativo foi desenvolvido com foco em consumo de APIs, navegação mobile, responsividade e experiência do usuário utilizando tecnologias modernas do ecossistema React Native.
