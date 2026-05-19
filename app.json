@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Conversor de Moedas",
+    "slug": "conversor-moedas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1a73e8"
+      }
+    }
+  }
+}
